@@ -26,7 +26,7 @@ Step file: 009_Image_recognition.pdf.
 
 •	Epoch Adjustments: Increased the number of training epochs from 15 to 60, allowing the model more iterations to thoroughly learn from the augmented data.
 
-•	Accuracy Achievements: Through systematic tuning and enhancements, the model’s accuracy was boosted significantly from an initial 81.0% to a commendable 95.7%.
+•	Accuracy Achievements: Through systematic tuning and enhancements, the model’s accuracy was boosted significantly from an initial 71.0% to a commendable 95.7%.
 
 
 ![image](digit1.png)
