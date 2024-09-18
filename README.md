@@ -29,3 +29,4 @@ Step file: 009_Image_recognition.pdf.
 •	Accuracy Achievements: Through systematic tuning and enhancements, the model’s accuracy was boosted significantly from an initial 81.0% to a commendable 95.7%.
 
 
+![image](.png)
